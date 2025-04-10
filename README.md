@@ -6,7 +6,7 @@ This project provides a comprehensive analysis of Netflix's content data using P
 
 ## 🖼️ Project Preview
 
-![image](https://github.com/user-attachments/assets/f8a04ec3-36df-41f3-8d4c-fec7f412cfc9)
+![1](https://github.com/user-attachments/assets/1a45ae58-8fd8-4f76-bad3-ab66e140e35b)
 
 ## 🗂️ Dataset
 
@@ -30,7 +30,7 @@ This project provides a comprehensive analysis of Netflix's content data using P
 
 ## 📈 Key Findings
 
-![image](https://github.com/user-attachments/assets/08e2d2be-590a-4642-84c3-305975979e2a)
+![2](https://github.com/user-attachments/assets/69818c11-babe-4100-aac3-f99ed5071715)
 
 - Content addition spiked after 2016, peaking in 2019
 - Around 70% of Netflix content are Movies
