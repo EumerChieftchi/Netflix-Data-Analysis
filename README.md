@@ -40,8 +40,7 @@ This project provides a comprehensive analysis of Netflix's content data using P
 ## 📎 Files Included
 
 - [`netflix_data_analysis.ipynb`](https://github.com/EumerChieftchi/Netflix-Data-Analysis/blob/main/netflix_data_analysis_english.ipynb): The Jupyter Notebook with code and visualizations
-- [`netflix_data_analysis.ipynb`](https://github.com/EumerChieftchi/Netflix-Data-Analysis/blob/main/Netflix_Data_Analysis_English.pptx): Python notebook with all code and visualizations
-
+- [`Netflix_Data_Analysis_English.pptx`](https://github.com/EumerChieftchi/Netflix-Data-Analysis/blob/main/Netflix_Data_Analysis_English.pptx): Clean presentation of findings
 ## 👤 Author
 
 **Ömer Çiftci**  
