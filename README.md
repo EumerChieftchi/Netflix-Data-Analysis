@@ -2,6 +2,12 @@
 
 This project provides a comprehensive analysis of Netflix's content data using Python. It explores content distribution by type, country, year, and genre.
 
+📌 You can view the full project and visualizations in the notebook or presentation below.
+
+## 🖼️ Project Preview
+
+![image](https://github.com/user-attachments/assets/f8a04ec3-36df-41f3-8d4c-fec7f412cfc9)
+
 ## 🗂️ Dataset
 
 - Source: [Kaggle - Netflix Titles](https://www.kaggle.com/datasets/shivamb/netflix-shows)
@@ -23,6 +29,8 @@ This project provides a comprehensive analysis of Netflix's content data using P
 - Removed rows with invalid or missing dates
 
 ## 📈 Key Findings
+
+![image](https://github.com/user-attachments/assets/08e2d2be-590a-4642-84c3-305975979e2a)
 
 - Content addition spiked after 2016, peaking in 2019
 - Around 70% of Netflix content are Movies
